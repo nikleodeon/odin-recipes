@@ -1,0 +1,22 @@
+body {
+    background-color: #ffc2b0;
+    font-size: 24px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mainimage {
+    width: 30%;
+    height: auto;
+    border: 5px solid #e13b23;
+    border-radius: 25px;
+}
+
+.caption {
+    text-align: center;
+    font-size: 0.5em;
+}
